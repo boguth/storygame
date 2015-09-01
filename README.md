@@ -22,3 +22,13 @@ A new take on creative writing.
 
 ##Schema
 ![Schema](updated_schema.png)
+
+* Stories need a synopsis.
+* Stories need to be votable.
+* Comments need to be votable.
+
+#Site Map
+![Home Page](home_page.png)
+
+#Wire Frames
+
