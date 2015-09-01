@@ -28,7 +28,7 @@ A new take on creative writing.
 * Comments need to be votable.
 
 #Site Map
-![Home Page](home_page.png)
+
 
 #Wire Frames
-
+![Home Page](home_page.png)
