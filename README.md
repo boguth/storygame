@@ -17,6 +17,10 @@ A new take on creative writing.
 - As a user, I want to be able to edit my contributions to a sotry at any time.
 - As a story creator, I want to be able to tag a story with a genre.
 - As a user, I want to search for a story by genre or title.
+- As a user, I want to see a list of all the stories being worked on.
+- As a user, I want to see a list of all the stories being worked on, sorted by genre.
+- As a user, I want to see all the stories that have been finished.
+- As a user, I want to sort all the finished stories by vote count and/or genre.
 - Once a story has reached its conclusion, it no longer takes contributions.
 - If there is a tie, a re-vote is held.
 
