@@ -16,5 +16,9 @@ A new take on creative writing.
 - As a user, I want to participate in conversations about the story.
 - As a user, I want to be able to edit my contributions to a sotry at any time.
 - As a story creator, I want to be able to tag a story with a genre.
+- As a user, I want to search for a story by genre or title.
 - Once a story has reached its conclusion, it no longer takes contributions.
 - If there is a tie, a re-vote is held.
+
+##Schema
+![Schema](updated_schema.png)
