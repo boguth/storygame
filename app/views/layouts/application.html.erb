@@ -9,9 +9,10 @@
 <body>
 <div class="header">
   <h1> Story Game </h1>
-  <%= link_to "Login", new_session_path %>
+  <div class="login">
+    <%= link_to "Login", new_session_path %>
+  </div>
 </div>
   <%= yield %>
-
 </body>
 </html>
